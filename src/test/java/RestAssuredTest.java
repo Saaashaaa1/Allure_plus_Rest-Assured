@@ -111,5 +111,4 @@ public class RestAssuredTest {
         System.out.println((String) response.jsonPath().get("id"));
     }
 
-
 }
